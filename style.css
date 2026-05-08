@@ -34,3 +34,10 @@ div {
 .done {
     background-color: green;
 }
+
+.card {
+    border: 1px solid black;
+    margin: 10px;
+    box-shadow: 0 0 3px gray;
+    width: 175px;
+}
