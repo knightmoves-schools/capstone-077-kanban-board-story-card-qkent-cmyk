@@ -38,6 +38,6 @@ div {
 .card {
     border: 1px solid black;
     margin: 10px;
-    box-shadow: 0 0 3px gray;
+    box-shadow: 3px 3px 0px 0px lightgray;
     width: 175px;
 }
